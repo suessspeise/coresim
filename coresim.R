@@ -1,4 +1,4 @@
-# R-script to make "simulated core photographs" form color scan data
+# R-script to make "simulated core photographs" from color scan data
 #
 # Usage: 
 #   coresim(<L-values>, <a-values>, <b-values>)
