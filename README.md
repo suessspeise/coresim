@@ -1,4 +1,4 @@
-![sample image](sample_output1.pdf)
+![sample image](sample_output1.png)
 
 # coresim
-make core photo like plots from color scan data
+Use to make plots, that emulate a line scan from color scan data. Good for verifying corectness of color data.
